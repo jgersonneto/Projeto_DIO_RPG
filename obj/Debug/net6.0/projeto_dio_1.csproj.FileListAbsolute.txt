@@ -1,0 +1,15 @@
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\bin\Debug\net6.0\projeto_dio_1.exe
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\bin\Debug\net6.0\projeto_dio_1.deps.json
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\bin\Debug\net6.0\projeto_dio_1.runtimeconfig.json
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\bin\Debug\net6.0\projeto_dio_1.dll
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\bin\Debug\net6.0\ref\projeto_dio_1.dll
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\bin\Debug\net6.0\projeto_dio_1.pdb
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\obj\Debug\net6.0\projeto_dio_1.csproj.AssemblyReference.cache
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\obj\Debug\net6.0\projeto_dio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\obj\Debug\net6.0\projeto_dio_1.AssemblyInfoInputs.cache
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\obj\Debug\net6.0\projeto_dio_1.AssemblyInfo.cs
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\obj\Debug\net6.0\projeto_dio_1.csproj.CoreCompileInputs.cache
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\obj\Debug\net6.0\projeto_dio_1.dll
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\obj\Debug\net6.0\ref\projeto_dio_1.dll
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\obj\Debug\net6.0\projeto_dio_1.pdb
+C:\Users\jgers\Desktop\Projetos_Programacao\C#\DIO\projeto_dio_1\obj\Debug\net6.0\projeto_dio_1.genruntimeconfig.cache
