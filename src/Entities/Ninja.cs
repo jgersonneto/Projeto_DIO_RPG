@@ -15,6 +15,19 @@ namespace projeto_dio_1.src.Entities
         {
             return this.Name + " Atacou com uma Shuriken";
         }
+        public string Attack(int damage)
+        {
+            if (damage < 5)
+            {
+                return this.Name + " Atacou com uma Shuriken "
+                                 + "com Danos Fraco de valor " + damage;
+            }
+            else
+            {
+                return this.Name + " Atacou com uma Shuriken "
+                                 + "com Danos Extremamente Forte de valor " + damage;
+            }
+        }
 
         public override string ToString()
         {
