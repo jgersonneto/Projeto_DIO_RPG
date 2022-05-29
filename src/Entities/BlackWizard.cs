@@ -1,8 +1,8 @@
 namespace projeto_dio_1.src.Entities
 {
-    public class Knight : Hero
+    public class BlackWizard : Hero
     {
-        public Knight(string Name, int Level, string HeroType, int Hp, int Mp)
+        public BlackWizard(string Name, int Level, string HeroType, int Hp, int Mp)
         {
             this.Name = Name;
             this.Level = Level;
@@ -13,13 +13,12 @@ namespace projeto_dio_1.src.Entities
 
         public override string Attack()
         {
-            return this.Name + " Atacou com uma espada";
+            return this.Name + " Lançou magia das Trevas(Maldições imperdoáveis) Avada Kedavra";
         }
 
         public override string ToString()
         {
             return $"{this.Name}, {this.Level}, {this.HeroType}";
         }
-
     }
 }
