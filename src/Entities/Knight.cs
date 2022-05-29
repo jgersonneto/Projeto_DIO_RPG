@@ -31,7 +31,7 @@ namespace projeto_dio_1.src.Entities
 
         public override string ToString()
         {
-            return $"{this.Name}, {this.Level}, {this.HeroType}";
+            return $"{this.Name}, {this.Level}, {this.HeroType}, {this.Hp}, {this.Mp}";
         }
 
     }
